@@ -1,0 +1,11 @@
+.time_series_c1/
+*.csv
+*.xlsx
+*.pdf
+.github/
+*.png
+*.jpg
+*.ipynb_checkpoints/
+*.log
+*.zip
+*.html
