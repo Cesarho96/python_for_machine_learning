@@ -1,4 +1,4 @@
-.time_series_c1/
+.ml_ds_course/
 *.csv
 *.xlsx
 *.pdf
@@ -9,3 +9,5 @@
 *.log
 *.zip
 *.html
+*.txt
+!requirements.txt
