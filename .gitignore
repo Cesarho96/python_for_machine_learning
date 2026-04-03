@@ -10,4 +10,3 @@
 *.zip
 *.html
 *.txt
-!requirements.txt
